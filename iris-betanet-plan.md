@@ -1,4 +1,5 @@
-# IRIS Foundation Announces Plan for Betanet --- the First Step for Mainnet Launch
+# IRIS Foundation Announces Plan for Betanet 
+**the First Step for Mainnet Launch**
  
 The [IRIS Foundation](https://www.irisnet.org) is excited to be announcing the launch of  IRIS Betanet, which will happen in the middle of Feb 2019, right after Chinese New Year. 2019 is the Year of the Pig which represents carefree fun, good fortune and wealth.
 
