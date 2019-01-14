@@ -4,4 +4,4 @@ This document is going to provide information on those locked tokens for teams a
 
 
 
-- IRIS Foundation
+IRIS Foundation
