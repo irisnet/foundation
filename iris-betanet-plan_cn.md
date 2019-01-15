@@ -1,6 +1,8 @@
 # IRISnet基金会宣布Betanet启动计划 
 ## IRIS主网启动的第一步
 
+_NOTE:本文翻译根据[IRIS Betanet Plan 英文版](iris-betanet-plan.md)翻译,如果出现不一致的表意，以英文版为准。_<div STYLE="page-break-after: always;"></div>
+
 新年伊始，[IRIS基金会](https://www.irisnet.org)高兴地宣布，IRIS Betanet即将于2019年春节后（2月中旬）上线！
 
 自2018年7月20日启动运行伏羲测试网以来，IRISnet社区见证了其重大进展。2018年11月26日，验证人工作组成功地完成了链上软件升级的尝试，自此，IRIS主网能够在一开始推出PoS基本功能模块之后，还能通过去中心化的链上治理逐步增加更多高级功能，如[IBC](https://github.com/cosmos/cosmos-sdk/tree/master/docs/spec/ibc) 和 [i-services](https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md) 等。
