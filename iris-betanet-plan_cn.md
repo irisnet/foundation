@@ -7,7 +7,7 @@
 
 社区正期待能够早日超越测试网，更进一步感受真实的生产网络运营环境。IRISnet的核心开发团队，[边界智能](https://bianjie.ai)正在对Betanet的发布进行最终的技术准备工作。
 
-作为IRIS主网上线的第一步，Betanet仍是一个不够成熟的网络，社区成员与之进行交互时应注意：Betanet可能会遭遇意外故障导致网络停滞，同时也需要做相应的维护和调整。 但作为IRISnet主网的一部分，Betanet上的所有交易都将被永久保留\(请参阅<[betanet期望](iris-betanet-expectations_cn.md)\)。 此外，早期IRISnet私募参与者和开发团队的锁定通证将根据锁定条款从Betanet创世区块中开始逐步解锁\(请参阅[IRIS 通证解锁计划](iris-tokens-unlocking-schedule_cn.md)\)。
+作为IRIS主网上线的第一步，Betanet仍是一个不够成熟的网络，社区成员与之进行交互时应注意：Betanet可能会遭遇意外故障导致网络停滞，同时也需要做相应的维护和调整。 但作为IRISnet主网的一部分，Betanet上的所有交易都将被永久保留\(请参阅[Betanet期望](iris-betanet-expectations_cn.md)\)。 此外，早期IRISnet私募参与者和开发团队的锁定通证将根据锁定条款从Betanet创世区块中开始逐步解锁\(请参阅[IRIS 通证解锁计划](iris-tokens-unlocking-schedule.md)\)。
 
 **Betanet启动计划如下：**  
 1. **2019/01/21:**  IRISnet移动数字钱包[Rainbow](http://www.rainbow.one)公测开启。早期的私募者将收到相关的通知和说明，以便熟悉如何通过Rainbow钱包与网络进行交互。  
