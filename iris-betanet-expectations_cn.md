@@ -1,7 +1,7 @@
 # IRIS Betanet 期望
 
 
-_NOTE:本中文翻译根据[IRIS Betanet Expectations 英文版](iris-betanet-expectations.md)翻译,如果出现不一致的表意，以英文版为准_<div STYLE="page-break-after: always;"></div>
+_NOTE:本文翻译根据[IRIS Betanet Expectations 英文版](iris-betanet-expectations.md)翻译,如果出现不一致的表意，以英文版为准_<div STYLE="page-break-after: always;"></div>
 
 为了帮助社区更好的参与IRIS Betanet，特此向社区沟通明确Betanet的一些期望：
 
