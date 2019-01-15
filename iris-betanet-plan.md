@@ -10,7 +10,7 @@ Now the community is looking forward to moving beyond the testnet to a productio
 The Betanet, as the first step towards the Mainnet, is still an immature network, and community members who opt to interact with it must understand that the Betanet will undergo unscheduled downtime and require maintenance and adjustments. However, all transactions from Betanet are intended to be persisted as part of IRIS Mainnet blockchain \(please refer to [Betanet Expectations](iris-betanet-expectations.md)\). In addition, **locked tokens for early IRISnet private sale contributors and development teams will start to unlock from the Betanet genesis according to the locking terms** \(Please refer to [IRIS Tokens Unlocking Schedule](iris-tokens-unlocking-schedule.md)\).
 
 Following is Betanet launch plan:
-1. 01/21/2019 [Rainbow](http://www.rainbow.one), the mobile client for IRISnet, open for public testing. Notifications and instructions will be sent to early private sale contributors to familiarize themselves with interacting with the network through Rainbow app.
+1. 01/21/2019 [Rainbow](http://www.rainbow.one), the mobile client for IRISnet, open for public testing on [Fuxi Testnet](https://www.irisnet.org/testnets). Notifications and instructions will be sent to early private sale contributors to familiarize themselves with interacting with the network through Rainbow app.
 2. 02/04/2019 Awards to community members and instructions about how to claim the awarded tokens will be published on [www.irisnet.org](https://www.irisnet.org)
 3. 02/11/2019 ~ 02/17/2019 Collecting gentx files for Betanet genesis 
 4. 02/18/2019 ~ 02/28/2019 Betanet launch with validators joining
