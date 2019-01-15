@@ -1,13 +1,13 @@
 # IRIS Betanet 期望
 
 
-_NOTE:本文翻译根据[IRIS Betanet Expectations 英文版](iris-betanet-expectations.md)翻译,如果出现不一致的表意，以英文版为准_<div STYLE="page-break-after: always;"></div>
+_NOTE:本文翻译根据[IRIS Betanet Expectations 英文版](iris-betanet-expectations.md)翻译,如果出现不一致的表意，以英文版为准。_<div STYLE="page-break-after: always;"></div>
 
 为了帮助社区更好的参与IRIS Betanet，特此向社区沟通明确Betanet的一些期望：
 
 -   Betanet是一个功能完备的区块链网络，是IRIS主网的初始阶段，用以让用户体验并熟悉主网的功能。
 -   Betanet仍是个实验性的网络，不应用于重要或高价值的交易。
--   在Betanet阶段，链上所有的交易将会永久保存于主网中，不可撤销
+-   在Betanet阶段，链上所有的交易将会永久保存于主网中，不可撤销。
 -   Betanet可能会遭遇意外的网络故障以及紧急升级修复情况。
 -   在Betanet运行成熟后，将会上线功能更为广泛的IRISnet主网。
 
