@@ -7,9 +7,6 @@
 6. 03/01/2019 Release tokens to private sale contributors. Open VIL (Validating while In Locking) program to private sale participants with locked tokens. 
 7. 03/08/2019 Release community award tokens (translations, introduction of IRISnet articles)
 
-
-and community award recipients. 
-
 Finished activies: 
 1.  01/21/2019 [Rainbow](http://www.rainbow.one), the mobile client for IRISnet, open for public testing on [Fuxi Testnet](https://www.irisnet.org/testnets). Notifications and instructions will be sent to early private sale contributors to familiarize themselves with interacting with the network through Rainbow app.
 
