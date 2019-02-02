@@ -1,4 +1,4 @@
-# IRISnet基金会宣布Betanet启动计划 
+# IRIS基金会宣布Betanet启动计划 
 ## IRIS主网启动的第一步
 
 _NOTE:本文翻译根据[IRIS Betanet Plan 英文版](iris-betanet-plan.md)翻译,如果出现不一致的表意，以英文版为准。_<div STYLE="page-break-after: always;"></div>
