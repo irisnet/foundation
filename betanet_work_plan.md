@@ -1,13 +1,15 @@
 # Betanet Work Plan
 
 ## TODO
-4. 02/11/2019 ~ 02/17/2019 Collecting gentx files for Betanet genesis 
+4. 02/11/2019 ~ 02/25/2019 Collecting gentx files for Betanet genesis 
 
-5. 02/18/2019 ~ 02/28/2019 Betanet launch with validators joining, airdrop of IRIS tokens to new [Rainbow](http://www.rainbow.one) users will start after Betanet launches
+5. 02/26/2019 ~ 02/28/2019 Betanet launch with validators joining
 
-6. 03/01/2019 Release tokens to private sale contributors. Open VIL (Validating while In Locking) program to private sale participants with locked tokens. 
+6. 03/01/2019 Airdrop of IRIS tokens to new [Rainbow](http://www.rainbow.one) users will start after Betanet launches
 
-7. 03/08/2019 Release community award tokens (translations, introduction of IRISnet articles)
+7. 03/01/2019 Start releasing tokens to private sale contributors. Open VIL (Validating while In Locking) program to private sale participants with locked tokens. 
+
+7. 03/08/2019 Start release community award tokens (translations, introduction of IRISnet articles)
 
 ## Finished Activies: 
 (3) 02/11/2019 Instructions to [validators joining IRIS Betanet Genesis](https://github.com/irisnet/betanet/blob/master/gentx/README.md) is published. 
