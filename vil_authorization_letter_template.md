@@ -13,7 +13,9 @@ When the locking period of my delegation tokens expires, the IRIS Foundation sha
 I certify that I own the account addresses for receiving reward tokens as well as unlocked tokens mentioned in this letter, and I have the private keys to operate them at my own discretion.
 
 I have read through and understood the concepts and risks mentioned in the following documents provided on the IRISnet webside:
+
 https://www.irisnet.org/docs/resources/delegator-faq.html
+
 https://www.irisnet.org/docs/resources/validator-faq.html
 
 
