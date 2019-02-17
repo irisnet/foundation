@@ -2,7 +2,10 @@ Dear IRIS Foundation,
 
 My IRIS Token Private Sale reference number is [201*-**-T*-***], and I have a total of # IRIS tokens which are locked for ?? months starting from the IRIS Betanet launch date. 
 
-I hereby authorize IRIS Foundation to delegate [#] of my locked IRIS tokens to the validator address [iva***]. 
+I hereby authorize IRIS Foundation to delegate total [#] of my locked IRIS tokens to following validator(s)
+    Seq No      Validator Adress      Delegation Amount 
+       1        [iva***]   
+       2        ....
 
 I shall take immediate title to the reward tokens as a result of my authorized delegation action, if executed successfully, and shall receive the reward tokens at the account address [iaa***].
 
