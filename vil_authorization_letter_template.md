@@ -1,4 +1,4 @@
-_NOTE:  Dear private sale participants with IRIS tokens in locking term, if you want to participate in the VIL(Validating while In Locking Period),  please send following email from your email address, which you used for receiving the sale letter, to : presale@irisnet.org also cc harriet@irisnet.org to authorize IRIS Foundation delegate your locked tokens to your trusted validator(s)_   
+_NOTE:  Dear private sale participants with IRIS tokens in locking term, if you want to participate in the VIL(Validating while In Locking Period),  please send following email from your email address, which you used for receiving the sale letter, to : presale@irisnet.org also cc harriet@irisnet.org to authorize IRIS Foundation delegate your locked tokens to your trusted validator(s) 请从您接受私募协议的邮箱地址给基金会发如下信件_   
 
 ----------------------------------------------------------------------------------------------
 
