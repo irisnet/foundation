@@ -1,4 +1,4 @@
-Dear Privave sale participants with locked tokens, you can send following email to : presale@irisnet.org also cc harriet@irisnet.org
+_NOTE:Dear private sale participants with IRIS tokens in locking term, if you want to participate in the VIL(Validating while In Locking Period) you can send following email to : presale@irisnet.org also cc harriet@irisnet.org to authorize IRIS Foundation delegate your locked tokens to your trusted validator(s)_   
 
 ----------------------------------------------------------------------------------------------
 
@@ -9,7 +9,9 @@ My IRIS Token Private Sale reference number is [201*-**-T*-***], and I have a to
 I hereby authorize IRIS Foundation to delegate total [#] of my locked IRIS tokens to following validator(s):
 
 |  Seq No   |   Validator Adress   |   Delegation Amount 
+
 |    1      |      [iva***]        |       # 
+
 |    2      |      [iva***]        |       ...
 
 I shall take immediate title to the reward tokens as a result of my authorized delegation action, if executed successfully, and shall receive the reward tokens at the account address [iaa***].
