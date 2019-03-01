@@ -1,3 +1,7 @@
+Dear Privave sale participants with locked tokens, you can send following email to : presale@irisnet.org also cc harriet@irisnet.org
+
+----------------------------------------------------------------------------------------------
+
 Dear IRIS Foundation, 
 
 My IRIS Token Private Sale reference number is [201*-**-T*-***], and I have a total of # IRIS tokens which are locked for ?? months starting from the IRIS Betanet launch date. 
