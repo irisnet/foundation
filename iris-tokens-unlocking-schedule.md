@@ -1,7 +1,6 @@
-# IRIS Tokens Unlocking Schedule
+# IRISnet Public Token Addresses 
 
-This document is going to provide information on those locked tokens for teams as well as private sale participants. Locking address as well as release schedule will be published .  This document will be updated as time elaspes.  
-
+https://www.irisplorer.io/#/address/1/iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc
 
 
 IRIS Foundation
