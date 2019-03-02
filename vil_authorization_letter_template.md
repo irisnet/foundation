@@ -1,4 +1,6 @@
-_NOTE:  Dear private sale participants with IRIS tokens in locking term, if you want to participate in the VIL(Validating while In Locking Period),  please send following email from your email address, which you used for receiving the sale letter, to : presale@irisnet.org also cc harriet@irisnet.org to authorize IRIS Foundation delegate your locked tokens to your trusted validator(s) 请从您接受私募协议的邮箱地址给基金会发如下信件_   
+_NOTE:  Dear private sale participants with IRIS tokens in locking term, if you want to participate in the VIL(Validating while In Locking Period),  please send following email from your email address, which you used for receiving the sale letter, to : presale@irisnet.org also cc harriet@irisnet.org to authorize IRIS Foundation delegate your locked tokens to your trusted validator(s)_ 
+
+_请从您接受私募协议的邮箱地址给基金会发如下信件, 注意其中验证人的地址以iva 开始，你必须选择你信任的验证人。接受收益的地址是常规帐户地址以  iaa 开始，这必须是你自己拥有私钥的地址，否者收益你将没法直接拥有。如果你将收益地址指定为验证人的帐户地址，虽然所有收益都在链上有记录，如果验证人也有其他收益来源的话，你将很难让验证人准备剥离哪部分收益来自于你的委托。所以请一定将收益地址设置为一个你自己拥有私钥的地址_   
 
 ----------------------------------------------------------------------------------------------
 
@@ -14,7 +16,7 @@ I hereby authorize IRIS Foundation to delegate total [#] of my locked IRIS token
 
 |    2      |      [iva***]        |       ...
 
-I shall take immediate title to the reward tokens as a result of my authorized delegation action, if executed successfully, and shall receive the reward tokens at the account address [iaa***].
+I shall take immediate title to the reward tokens as a result of my authorized delegation action, if executed successfully, and shall receive the reward tokens at the account address [iaa***] which I own and have private key to operate.
 
 I certify that I understand the fact and take full responsibility that: 1) I might lose my delegation tokens, in part or whole, due to risk factors that include but are not limited to protocol flaws, security holes, and byzantine attacks; 2) my delegation tokens might get slashed by the protocol, in part or whole, due to malicious,compromised and/or negligent validator operations.
 
