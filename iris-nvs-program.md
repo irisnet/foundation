@@ -13,7 +13,7 @@ or
 2. With a github id with more than 1 year history and demostrated sufficient blockchain technology involvement. 
 
 
-To join NVS, please submit a PR under https://github.com/irisnet/iris-foundation/tree/master/nvs with your node address on IRISnet as well as your backgrounds/qualifications. This is also a good way to let community know your validator node, and might consider your validation service in future.
+To join NVS, please submit a PR under https://github.com/irisnet/iris-foundation/tree/master/nvs with your node **address on IRISnet** as well as your backgrounds/qualifications. This is also a good way to let community know your validator node, and might consider your validation service in future.
 
 Please join IRIS Validator community at Riot:  #irisvalidators:matrix.org. QQ (In Chinese): 834063323 to learn more
 
