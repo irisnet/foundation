@@ -1,8 +1,8 @@
 # IRIS Foundation New Validator Support (NVS)  Program  
 
-To encourage building a more decentralized network, IRIS Foundation would like to support up to 50 new Validators to join [IRIS Betanet](https://www.irisnet.org/mainnet) through providing 100 initial IRIS tokens to start. After the new validator successfully joined network.  There would be another 300 IRIS tokens to be sent to the validator account to allow validators to stake.  
+To encourage building a more decentralized network, IRIS Foundation would like to support up to 50 new Validators to join [IRIS Betanet](https://www.irisnet.org/mainnet) through providing 100 initial IRIS tokens to start. After the new validator successfully joined network.  There would be another 300 IRIS tokens to this validator account.  
 
-However to be qualified, you have to meet one of following conditions: 
+To be qualified, you have to meet one of following conditions: 
 
 1. proof you are experienced POS validators with more than 3 month history of performing validating service to either Cosmos/Tezos/Polkadot/IRIS testnets 
 
