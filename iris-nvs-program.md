@@ -4,7 +4,7 @@ To encourage building a more decentralized network, IRIS Foundation would like t
 
 However to be qualified, you have to meet one of following conditions: 
 
-1. proof you are experienced POS validators with more than 3 month history of performing validating service to either Cosmos/Tezos/Polkadot 
+1. proof you are experienced POS validators with more than 3 month history of performing validating service to either Cosmos/Tezos/Polkadot/IRIS testnets 
 
 or 
 
