@@ -1,4 +1,4 @@
-_NOTE:  Dear private sale participants with IRIS tokens in locking term, if you want to participate in the VIL(Validating while In Locking Period),  please send following email from your email address, which you used for receiving the sale letter, to : presale@irisnet.org also cc harriet@irisnet.org to authorize IRIS Foundation delegate your locked tokens to your trusted validator(s)_ 
+_NOTE:  Dear private sale participants with IRIS tokens in locking term, if you want to participate in the VIL(Validating while In Locking Period),  please send following email from your email address, which you used for receiving the sale letter, to : presale@irisnet.org also cc harriet@irisnet.org to authorize IRIS Foundation delegate your locked tokens to your trusted validator(s)
 
 _请从您接受私募协议的邮箱地址给基金会发如下信件, 注意其中验证人的地址以iva 开始，你必须选择你信任的验证人。接受收益的地址是常规帐户地址以  iaa 开始，这必须是你自己拥有私钥的地址，否者收益你将没法直接拥有。如果你将收益地址指定为验证人的帐户地址，虽然所有收益都在链上有记录，如果验证人也有其他收益来源的话，你将很难让验证人准确剥离哪部分收益来自于你的委托。所以请一定将收益地址设置为一个你自己拥有私钥的地址。_
 
@@ -34,3 +34,14 @@ https://www.irisnet.org/docs/resources/validator-faq.html
 
 
 [Your name here]
+
+
+
+Instructions for creating an account on IRISnet:
+--------------------------------------------
+You can do it now with the CLI interface:
+1）Install the software：https://www.irisnet.org/docs/get-started/Install-the-Software.html
+2) Create address：https://www.irisnet.org/docs/cli-client/keys/add.html
+
+We also have a mobile wallet Rainbow which is planned to release on March 8th, which you can run from your mobile device with cold and watch wallet support. Please bookmark https://www.irisnet.org/mainnet where you can download Rainbow when it is released. 
+
