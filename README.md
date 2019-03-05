@@ -4,7 +4,8 @@ Foundation and Dev team Token Address:
 + [IRIS Public Token Address](iris-public-token-address.md)
 
 Community Support Programs:
-
++ [NVS: New Validator Support Program](https://github.com/irisnet/iris-foundation/tree/master/nvs)
++ [NDG: Validator Delegation Growth Program](https://github.com/irisnet/iris-foundation/tree/master/ndg)
 
 Betanet Launch Docs &amp; Announcements
 + [IRIS Betanet Work Plan](betanet_work_plan.md)
