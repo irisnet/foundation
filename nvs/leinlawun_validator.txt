@@ -1,0 +1,9 @@
+I'm leinlawun, blockchain developer from Russia and contributor of the Golos blockchain.
+https://github.com/GolosChain/golos/pull/654
+https://github.com/leinlawun/golos
+
+My node is up now:9698d5732613070b45986246278cfdb690c18890@109.234.39.125:26656
+
+My validator address:
+iaa1vyzdceh9umfzq0k6x24jnkdujaa7d2s6ynfreu
+iap1addwnpepqwckm56wq2x95at0wxyygf3msmtlzt5pu5mgjj6rza4wlz8ry6442r3eewm
