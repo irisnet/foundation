@@ -1,0 +1,9 @@
+I'm luckybean, blockchain developer from China. I've joint iris testnet since last August.
+https://github.com/luckybean
+
+My node is up now: a8711b324762bc22eb0bd1b76bec6fc145a413aa@18.191.33.148:26656
+
+My validator address:
+iaa16v7g4a790t6qrrxr4scl5s652a6ha3g87v9drl
+iap1addwnpepqgep9fw74j2mcq87zwmr5u3dfcl0x6w3uv9ea4kta53ntqkgtynpqfgfuyt
+
