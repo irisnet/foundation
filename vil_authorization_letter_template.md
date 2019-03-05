@@ -12,11 +12,11 @@ My IRIS Token Private Sale reference number is [201*-**-T*-***], and I have a to
 
 I hereby authorize IRIS Foundation to delegate total [#] of my locked IRIS tokens to following validator(s):
 
-|  Seq No   |   Validator Adress   |   Delegation Amount 
+|  Validator Name   |   Validator Adress   |   Delegation Amount 
 
-|    1      |      [iva***]        |       # 
+|   'e.g cats'             |      [iva***]        |       # 
 
-|    2      |      [iva***]        |       ...
+|   'e.g another name'     |      [iva***]        |       ...
 
 I shall take immediate title to the reward tokens as a result of my authorized delegation action, if executed successfully, and shall receive the reward tokens at the account address [iaa***] which I own and have private key to operate.
 
