@@ -1,0 +1,18 @@
+Hi Iris Foundation,
+
+My name is Dora.Network and I want to become a validator for Iris.
+
+I have more than one year blockchain developing experience and my github repositories are: 
+
+https://github.com/DoraNetwork
+
+My delegator address: 
+iaa1fyqxk7flf4mz7pf23nklzl2x7rst0fyzeyn6jy
+
+My validator address:
+iva1fyqxk7flf4mz7pf23nklzl2x7rst0fyzv4e40r
+
+My validator's name: 
+UniValues
+
+Thanks a lot.
