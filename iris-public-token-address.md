@@ -4,7 +4,7 @@
  Reward withdraw address for the validator nodes maintained by IRIS Foundation. In the first year of IRISnet, the received rewards will be burned every quarter.  
  
  
- 
+**(Under Construction, more to come...)**
  
  
  
