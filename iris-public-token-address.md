@@ -27,7 +27,7 @@
 
 **Community awards to validators, bug bounty receivers and opensource contributors** There are mulitple address with  5,071,400(0.253570%) for validators, 37,450(0.001873%) to Bug Bounty receivers, 450,000(0.022500%)	to opensource contributors 
 
-[Check the innitial token distribution defined in the whitepaper](https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md#initial-token-distribution))
+[Check the innitial token distribution defined in the whitepaper](https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md#initial-token-distribution)
 
 _More to come..._
  
