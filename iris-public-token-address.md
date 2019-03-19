@@ -11,7 +11,7 @@
 **[Core-devs](https://www.irisplorer.io/#/address/1/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)**	500,000,000	which is 25.000000%	. Bianjie 15% (4 year vesting term) and Tendermint 10% (two year vesting term)
 
 
-## Genesis Addresses ([Innitial Token Distribution Defined in Whitepaper](https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md#initial-token-distribution))
+## Genesis Addresses 
 **[Private-sale](https://www.irisplorer.io/#/address/1/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**: Innitial value is 	500,000,000	which is 25.000000%. Private sales pariticipants have different locking terms, some of them are locked for almost a year. For locked tokens can still participate in validating. More details on those locking addresses under private sale terms will be released soon.    
 
 **[Core-devs](https://www.irisplorer.io/#/address/1/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)**	500,000,000	which is 25.000000%	. Bianjie 15% and Tendermint 10%
@@ -25,8 +25,9 @@
 **[Validator Support](https://www.irisplorer.io/#/address/1/iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts)**	100,000,000	5.000000%
 
 
-**[Community awards to validators, bug bounty receivers and opensource contributors]** There are mulitple address with  5,071,400(0.253570%) for validators, 37,450(0.001873%) to Bug Bounty receivers, 450,000(0.022500%)	to opensource contributors 
+**Community awards to validators, bug bounty receivers and opensource contributors** There are mulitple address with  5,071,400(0.253570%) for validators, 37,450(0.001873%) to Bug Bounty receivers, 450,000(0.022500%)	to opensource contributors 
 
+[Check the innitial token distribution defined in the whitepaper](https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md#initial-token-distribution))
 
 _More to come..._
  
