@@ -7,16 +7,16 @@
 **[Rainbow New User Airdrop Address](https://www.irisplorer.io/#/address/1/iaa13nzsae74qype65rshc0wyvhk9s0l3uecwf8y93)**.
 
 
-## Addresses with Locking terms (more to come... will complete this section soon)
+## Addresses with Locking Terms (more to come... will complete this section soon)
 **[Core-devs](https://www.irisplorer.io/#/address/1/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)**	500,000,000	which is 25.000000%	. Bianjie 15% (4 year vesting term) and Tendermint 10% (two year vesting term)
 
 
-## Genesis Addresses ([White Paper Innitial Token Distribution](https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md#initial-token-distribution))
+## Genesis Addresses ([Innitial Token Distribution Defined in Whitepaper](https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md#initial-token-distribution))
 **[Private-sale](https://www.irisplorer.io/#/address/1/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**: Innitial value is 	500,000,000	which is 25.000000%. Private sales pariticipants have different locking terms, some of them are locked for almost a year. For locked tokens can still participate in validating. More details on those locking addresses under private sale terms will be released soon.    
 
 **[Core-devs](https://www.irisplorer.io/#/address/1/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)**	500,000,000	which is 25.000000%	. Bianjie 15% and Tendermint 10%
 
-**[Iris foundation](https://www.irisplorer.io/#/address/1/iaa1p7qu0acxgwrg059va65cl8sq3w9japnkj93vrc)**	300,000,000	which is 15.000000%	
+**[IRIS Foundation](https://www.irisplorer.io/#/address/1/iaa1p7qu0acxgwrg059va65cl8sq3w9japnkj93vrc)**	300,000,000	which is 15.000000%, reserved to support the operations of the Foundation.
 
 **[Cosmos Hub Airdrop	for Staking IRIShub](https://www.irisplorer.io/#/address/1/iaa1y4ze04mauet065h2eehr5cwpskr7j6275j46ch)**	100,000,000,	5.000000%	
 
