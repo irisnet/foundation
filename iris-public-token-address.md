@@ -5,11 +5,11 @@ iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t
 
 
 
-## [iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc](https://www.irisplorer.io/#/address/1/iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc)
-**Foundation Delegation Withdraw Address**.  For the next 12 months starting from March 1, 2019, delegation rewards received at this address will be burned every quarter.  
+## Foundation Operation Addresses
+**Foundation Delegation Withdraw Address**(https://www.irisplorer.io/#/address/1/iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc):  For the next 12 months starting from March 1, 2019, delegation rewards received at this address will be burned every quarter.  
  
 
-## [iaa13nzsae74qype65rshc0wyvhk9s0l3uecwf8y93]
+
 **[Rainbow New User Airdrop Address](https://www.irisplorer.io/#/address/1/iaa13nzsae74qype65rshc0wyvhk9s0l3uecwf8y93)**.
 
 private-sale	iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t	500,000,000	25.000000%	私募出售	已经售出: 426,509,268
