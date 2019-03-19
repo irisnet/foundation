@@ -12,7 +12,7 @@
 
 **[IRIS Foundation](https://www.irisplorer.io/#/address/1/iaa1p7qu0acxgwrg059va65cl8sq3w9japnkj93vrc)**	15%, 300,000,000	which is reserved to support the operations of the Foundation and currently plan is every year the spending should be less than 60,000,000. Till 09/01/2019 this account should be locked which is the the first 6 month after the mainnet started    
 
-**[Cosmos Hub Airdrop	for Staking IRIShub](https://www.irisplorer.io/#/address/1/iaa1y4ze04mauet065h2eehr5cwpskr7j6275j46ch)**	100,000,000,	5%	will be locked for staking purpose only
+**[Cosmos Hub Airdrop	for Staking IRIShub](https://www.irisplorer.io/#/address/1/iaa1y4ze04mauet065h2eehr5cwpskr7j6275j46ch)**	5%，100,000,000 	will be locked for staking purpose only
 
 **(more to come... will complete this section for private sales locking soon)**
 
