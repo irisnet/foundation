@@ -23,7 +23,9 @@
 **[Ecosystem Development](https://www.irisplorer.io/#/address/1/iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0)**	494,440,350	which is 24.722018%	. The rest are spreaded into different accounts for supporting the ecosystem development: 
 
 **[Validator Support](https://www.irisplorer.io/#/address/1/iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts)**	100,000,000	5.000000%
-**[Community awards to validators, bug bounty receivers and opensource contributors]** There are mulitple addreees with  5,071,400(0.253570%) for validators, 37,450(0.001873%) to Bug Bounty receivers, 450,000(0.022500%)	to opensource contributors 
+
+
+**[Community awards to validators, bug bounty receivers and opensource contributors]** There are mulitple address with  5,071,400(0.253570%) for validators, 37,450(0.001873%) to Bug Bounty receivers, 450,000(0.022500%)	to opensource contributors 
 
 
 _More to come..._
