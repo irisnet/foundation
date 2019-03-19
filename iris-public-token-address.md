@@ -8,9 +8,9 @@
 
 
 ## Addresses with Locking Terms 
-**[Core-devs](https://www.irisplorer.io/#/address/1/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)**	500,000,000	which is 25%	. Bianjie 15% (4 year vesting term) and Tendermint 10% (two year vesting term)
+**[Core-devs](https://www.irisplorer.io/#/address/1/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)**	25%, 500,000,000. Including Bianjie 15% (4 year vesting term) and Tendermint 10% (two year vesting term)
 
-**[IRIS Foundation](https://www.irisplorer.io/#/address/1/iaa1p7qu0acxgwrg059va65cl8sq3w9japnkj93vrc)**	300,000,000	which is 15%, reserved to support the operations of the Foundation and currently plan is every year the spending should be less than 60,000,000 and locked for the first 6 month after the mainnet started    
+**[IRIS Foundation](https://www.irisplorer.io/#/address/1/iaa1p7qu0acxgwrg059va65cl8sq3w9japnkj93vrc)**	15%, 300,000,000	which is reserved to support the operations of the Foundation and currently plan is every year the spending should be less than 60,000,000. Till 09/01/2019 this account should be locked which is the the first 6 month after the mainnet started    
 
 **[Cosmos Hub Airdrop	for Staking IRIShub](https://www.irisplorer.io/#/address/1/iaa1y4ze04mauet065h2eehr5cwpskr7j6275j46ch)**	100,000,000,	5%	will be locked for staking purpose only
 
