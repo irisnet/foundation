@@ -4,7 +4,7 @@
 ## Foundation Operation Addresses
 **[Foundation Delegation Withdraw Address](https://www.irisplorer.io/#/address/1/iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc)**:  For the next 12 months starting from March 1, 2019, delegation rewards received at this address will be burned every quarter.  
 
-**[Rainbow New User Airdrop Address](https://www.irisplorer.io/#/address/1/iaa13nzsae74qype65rshc0wyvhk9s0l3uecwf8y93)**.
+**[Community Airdrop Address](https://www.irisplorer.io/#/address/1/iaa13nzsae74qype65rshc0wyvhk9s0l3uecwf8y93)**: Rainbow new user airdrop in March, 2019
 
 
 ## Addresses with Locking Terms 
