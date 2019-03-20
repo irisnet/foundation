@@ -1,0 +1,25 @@
+Hello,
+
+We are Attic Lab and we would like to run a validator on the Iris network.
+
+We have not joined the network on the genesis but we see great potential in it and want to use this opportunity.
+
+We are an EOS top-21 BP (along with being BP’s on Telos, BOS and meet.one), validator on the IOS blockchain and a baker on Tezos (under name Everstake).
+
+https://www.eosx.io/account/atticlabeosb
+https://telos.eosx.io/account/atticlabtlbp 
+https://bos.eosx.io/account/atticlabbosb 
+https://meetone.eosx.io/account/atticlab.m 
+https://iostabc.com/account/atticlab?page=1&size=50&order=asc 
+https://tzscan.io/tz1MXFrtZoaXckE41bjUCSjAjAap3AFDSr3N 
+
+We are also running a node on the Cosmos mainnet but haven’t been approved as a validator yet. 
+
+Visit our website for more information www.atticlab.net or contact us directly at inbox@atticlab.net 
+
+Address:
+iaa1as5xxstv0kaay3dppuwau0mvyrxcqkadqarde6
+Public key:
+iap1addwnpepq2klp7jqrz6e8skhzy970j4lyd4ylnr5t8aza8fg3h5ltfdrtsjuxwcwpzr
+Node:
+31c5e45f3cb5ad140eda375a38cbb3c5dd2dc011@178.63.84.79:26656
