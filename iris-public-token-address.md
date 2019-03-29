@@ -12,10 +12,12 @@
 
 **[Cosmos Hub Airdrop	for Staking IRIShub](https://www.irisplorer.io/#/address/1/iaa1y4ze04mauet065h2eehr5cwpskr7j6275j46ch)**	5%，100,000,000 	will be locked for staking purpose only
 
+**[Private-sale](https://www.irisplorer.io/#/address/1/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**: Innitial value is 	500,000,000	which is 25.000000%. Private sales pariticipants have different locking terms, among the 25%: ～6% locked for 6 month, followed by 12 month linear release； ～1% locked for 4 month； 10% locked for 2 month; <2% locked for 1 month; <2% without locking; ~ 4% Locked for 9 month, followed by 6 month linear release. Locked tokens can still participate in validating, if the owner of the locked tokens choose [VIL](), those locked tokens are moved to special proxy account and staked to the validators.
+
 **(more to come... will complete this section for private sales locking soon)**
 
 ## Genesis Addresses 
-**[Private-sale](https://www.irisplorer.io/#/address/1/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**: Innitial value is 	500,000,000	which is 25.000000%. Private sales pariticipants have different locking terms, some of them are locked for almost a year. For locked tokens can still participate in validating. More details on those locking addresses under private sale terms will be released soon.    
+**[Private-sale](https://www.irisplorer.io/#/address/1/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**:
 
 **[Core-devs](https://www.irisplorer.io/#/address/1/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)**	500,000,000	which is 25.000000%	. Bianjie 15% and Tendermint 10%
 
