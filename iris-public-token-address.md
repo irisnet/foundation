@@ -12,9 +12,7 @@
 
 **[Cosmos Hub Airdrop	for Staking IRIShub](https://www.irisplorer.io/#/address/1/iaa1y4ze04mauet065h2eehr5cwpskr7j6275j46ch)**	5%，100,000,000 	will be locked for staking purpose only
 
-**[Private-sale](https://www.irisplorer.io/#/address/1/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**: 
-
-Innitial value is 	500,000,000	which is 25.000000%. Private sales pariticipants have different locking terms, among the 25%: ～6% locked for 6 month, followed by 12 month linear release； ～1% locked for 4 month； 10% locked for 2 month; <2% locked for 1 month; <2% without locking; ~ 4% Locked for 9 month, followed by 6 month linear release. 
+**[Private-sale](https://www.irisplorer.io/#/address/1/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**: Innitial value is 	500,000,000	which is 25.000000%. Private sales pariticipants have different locking terms, among the 25%: ～6% locked for 6 month, followed by 12 month linear release； ～1% locked for 4 month； 10% locked for 2 month; <2% locked for 1 month; <2% without locking; ~ 4% Locked for 9 month, followed by 6 month linear release. 
 
 The number of remaining tokens on this account is smaller than the total locked token numbers. That is because some of the locked tokens have been moved to and locked at special proxy accounts to stake validators. Locked tokens still participating in validating is done through [VIL Program](vil_authorization_letter_template.md)
 
