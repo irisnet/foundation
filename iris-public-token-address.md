@@ -4,7 +4,7 @@
 ## Foundation Operation Addresses
 **[Foundation Delegation Withdraw Address](https://www.irisplorer.io/#/address/1/iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc)**: For the next 12 months starting from March 1, 2019, delegation rewards received at this address will be burned every quarter.  
 
-## Addresses with Locking Terms 
+## Addresses with Locking Terms : locking is counted from March 1st, 2019 when the time IRISnet is launched  
 **[Core Dev (Bianjie)](https://www.irisplorer.io/#/address/1/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)**:	15%, 300,000,000.  Reserved for the Bianjie team, with a four-year vesting period.
 
 **[Core Dev (Tendermint)](https://www.irisplorer.io/#/address/1/iaa13wqpy0ehazj7alvyc8ch36dsszp704pwts47wc)**:	10%, 200,000,000.  Reserved for the Tendermint team, with a two-year vesting period.
