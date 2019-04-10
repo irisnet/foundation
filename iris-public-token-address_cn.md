@@ -25,7 +25,7 @@ _锁定期从2019年3月1日IRISnet主网上线开始算起_
 
 当前该地址余额少于声明中的锁定数量，是由于部分锁定通证通过参与[VIL计划](vil_authorization_letter_template.md)被移至（并锁定在）特殊代理账户进行了权益抵押。
 
-点击[链接](https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md#initial-token-distribution)，在白皮书中查看首次代币分配。
+点击[链接](https://github.com/irisnet/irisnet/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6.md#%E5%88%9D%E5%A7%8B%E9%80%9A%E8%AF%81%E5%88%86%E9%85%8D)，在白皮书中查看首次代币分配。
 
 _持续更新中..._
 
