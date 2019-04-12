@@ -1,7 +1,7 @@
 _NOTE:  Dear T2 private sale participants with IRIS tokens going to be released on May 1st, if you plan to stake to the network, you can request IRIS Foundation to release your tokens now for you to manage the staking yourself. You can send following release request from your email address, which you used for receiving the sale letter, to : presale@irisnet.org also cc harriet@irisnet.org to authorize IRIS Foundation for the early release to stake. 
 
 ----------------------------------------------------------------------------------------------
-Title: Request for Early Staking Token Release [201*-**-T2-your reference Number]
+Title: Request for Staking Token Early Release [201*-**-T2-your reference Number]
 
 Dear IRIS Foundation,
 
