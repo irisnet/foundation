@@ -9,6 +9,8 @@ _锁定期从2019年3月1日IRISnet主网上线开始算起_
 
 **[核心开发团队 (Bianjie)](https://www.irisplorer.io/#/address/1/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)**:	给Bianjie团队保留15%，共300,000,000 IRIS，分四年线性释放。
 
+当前该地址余额少于15%，是因为部分通证被委托出去用于加强网络安全 -- 见[这页](https://www.irisplorer.io/#/address/1/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)的**Stakes**标签。
+
 **[核心开发者 (Tendermint)](https://www.irisplorer.io/#/address/1/iaa13wqpy0ehazj7alvyc8ch36dsszp704pwts47wc)**:	给Tendermint团队保留10%，共200,000,000 IRIS，分两年线性释放。
 
 **[IRIS基金会](https://www.irisplorer.io/#/address/1/iaa1p7qu0acxgwrg059va65cl8sq3w9japnkj93vrc)**:	给IRIS基金会保留15%，共300,000,000 IRIS。目前规划每年支出低于60,000,000 IRIS用于基金会运营。基金会承诺该账户在主网启动后锁仓6个月。   
