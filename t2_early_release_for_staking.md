@@ -2,6 +2,8 @@ _NOTE: [本文中文版请见t2_early_release_for_staking](t2_early_release_for_
 
 _Dear T2 private sale participants with IRIS tokens going to be released on May 1st, if you plan to stake to the network, you can request IRIS Foundation to release your tokens now for you to manage the staking yourself. You can send following release request from your email address, which you used for receiving the sale letter, to : presale@irisnet.org also cc harriet@irisnet.org to authorize IRIS Foundation for the early release to stake._ 
 
+_For those tokens are under VIL program, and don't want to stake further, please also send Foundation email to authorize the unbond of the staked tokens, please remember there will be 21 days before the tokens can complete unbonding and can be released to you._  
+
 ----------------------------------------------------------------------------------------------
 Title: Request for Staking Token Early Release [201*-**-T2-your reference Number]
 
