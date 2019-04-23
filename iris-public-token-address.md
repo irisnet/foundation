@@ -2,7 +2,9 @@
 
 
 ## Foundation Operation Addresses
-**[Foundation Delegation Withdraw Address](https://www.irisplorer.io/#/address/1/iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc)**: For the next 12 months starting from March 1, 2019, delegation rewards received at this address will be burned every quarter.  
+**Foundation Delegation Withdraw Address**
+- [iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc](https://www.irisplorer.io/#/address/1/iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc): Locked forever (private key and mnemonic destroyed).
+- [iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk](https://www.irisplorer.io/#/address/1/iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk): For the next 12 months starting from April  23, 2019, delegation rewards received at this address will be burned at the end of every quarter.
 
 ## Addresses with Locking Terms : 
 _Locking is counted from March 1st, 2019 when IRISnet was launched_ 
