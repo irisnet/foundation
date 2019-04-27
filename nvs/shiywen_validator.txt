@@ -4,7 +4,7 @@ I'm shiywen,A person with a strong interest in blockchain technology and recentl
 Under the introduction of a friend, I am eager to  become a validator for Iris.
 
 my validator address and pubkey is: 
-iaa1lqa8vyxuhsfhup8fa8znqeptxs3dlpc49wv0v0
+iva1lqa8vyxuhsfhup8fa8znqeptxs3dlpc4slxq3g
 icp1zcjduepqxxsknmpnvh8wjmeutdhsvm3hn4kv4524qsj6gcwn4fdnrzjxrz4q58xf6v
 
 Thank you,
