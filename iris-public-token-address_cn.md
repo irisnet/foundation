@@ -17,7 +17,7 @@ _锁定期从2019年3月1日IRISnet主网上线开始算起_
 
 **[IRIS基金会](https://www.irisplorer.io/#/address/1/iaa1p7qu0acxgwrg059va65cl8sq3w9japnkj93vrc)**: 给IRIS基金会保留15%，共300,000,000 IRIS。目前规划每年支出低于30,000,000 IRIS用于基金会运营。基金会承诺该账户在主网启动后锁仓6个月。   
 
-**[Cosmos Hub空投](https://www.irisplorer.io/#/address/1/iaa1y4ze04mauet065h2eehr5cwpskr7j6275j46ch)**:	给Cosmso Hub保留5%做特别空投，共100,000,000 IRIS，该部分通证将仅用于IRISnet权益抵押。
+**[Cosmos Hub空投](https://www.irisplorer.io/#/address/1/iaa1y4ze04mauet065h2eehr5cwpskr7j6275j46ch)**:	给Cosmso Hub保留5%做特别空投，共100,000,000 IRIS，该部分通证永不流通，将仅用于Cosmos Hub 参与IRISnet权益抵押，为IRISnet 提供额外的安全保证。
 
 **[私募](https://www.irisplorer.io/#/address/1/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**: 初始销售量500,000,000 IRIS, 占总量的25%。私募参与者有不同的锁仓期限：
 - 总量的6%锁仓6个月，然后按照12个月线性释放；
