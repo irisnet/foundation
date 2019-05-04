@@ -1,17 +1,5 @@
 # IRISnet公开通证地址
 
-
-## 留作生态开发的通证
-**主地址**
-- [iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0](https://www.irisplorer.io/#/address/1/iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0)
-
-**对外委托地址**
-- [iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts](https://www.irisplorer.io/#/address/1/iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts)
-
-**委托的收益提取地址**
-- [iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc](https://www.irisplorer.io/#/address/1/iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc): 永远锁定（私钥和助记词销毁）。
-- [iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk](https://www.irisplorer.io/#/address/1/iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk): 从2019年04月23日起，未来12个月内通过委托产生的收益会提取至该地址，每季度最后一天销毁一次。
-
 ## 有锁定期限的通证
 _锁定期从2019年3月1日IRISnet主网上线开始算起_
 
@@ -32,6 +20,17 @@ _锁定期从2019年3月1日IRISnet主网上线开始算起_
 - 总量的2%没有锁仓期。
 
 当前该地址余额少于声明中的锁定数量，是由于部分锁定通证通过参与[VIL计划](vil_authorization_letter_template.md)被移至（并锁定在）特殊代理账户进行了权益抵押。
+
+## 留作生态开发的通证
+**主地址**
+- [iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0](https://www.irisplorer.io/#/address/1/iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0)
+
+**对外委托地址**
+- [iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts](https://www.irisplorer.io/#/address/1/iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts)
+
+**委托的收益提取地址**
+- [iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc](https://www.irisplorer.io/#/address/1/iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc): 永远锁定（私钥和助记词销毁）。
+- [iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk](https://www.irisplorer.io/#/address/1/iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk): 从2019年04月23日起，未来12个月内通过委托产生的收益会提取至该地址，每季度最后一天销毁一次。
 
 点击[链接](https://github.com/irisnet/irisnet/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6.md#%E5%88%9D%E5%A7%8B%E9%80%9A%E8%AF%81%E5%88%86%E9%85%8D)，在白皮书中查看首次代币分配。
 
