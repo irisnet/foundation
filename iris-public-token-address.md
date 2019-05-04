@@ -15,9 +15,7 @@
 ## Tokens with Locking Terms : 
 _Locking is counted from March 1st, 2019 when IRISnet was launched_ 
 
-**[Core Dev (Bianjie)](https://www.irisplorer.io/#/address/1/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)**:	15%, 300,000,000.  Reserved for the Bianjie team, with a four-year vesting period.
-
-Some tokens at this address have been delegated to secure the network; Balance + Delegated makes the total of 15%.
+**[Core Dev (Bianjie)](https://www.irisplorer.io/#/address/1/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)**:	15%, 300,000,000.  Reserved for the Bianjie team, with a four-year vesting period.  Some tokens at this address have been delegated to secure the network; Balance + Delegated makes the total of 15%.
 
 **[Core Dev (Tendermint)](https://www.irisplorer.io/#/address/1/iaa13wqpy0ehazj7alvyc8ch36dsszp704pwts47wc)**:	10%, 200,000,000.  Reserved for the Tendermint team, with a two-year vesting period.
 
