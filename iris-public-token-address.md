@@ -1,12 +1,18 @@
 # IRISnet Public Token Addresses 
 
 
-## Foundation Operation Addresses
-**Foundation Delegation Withdraw Address**
+## Tokens Reserved for Ecosystem Development
+**Main Address**
+- [iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0](https://www.irisplorer.io/#/address/1/iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0)
+
+**Delegator Address**
+- [iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts](https://www.irisplorer.io/#/address/1/iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts)
+
+**Delegation Withdraw Address**
 - [iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc](https://www.irisplorer.io/#/address/1/iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc): Locked forever (private key and mnemonic destroyed).
 - [iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk](https://www.irisplorer.io/#/address/1/iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk): For the next 12 months starting from April  23, 2019, delegation rewards received at this address will be burned at the end of every quarter.
 
-## Addresses with Locking Terms : 
+## Tokens with Locking Terms : 
 _Locking is counted from March 1st, 2019 when IRISnet was launched_ 
 
 **[Core Dev (Bianjie)](https://www.irisplorer.io/#/address/1/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)**:	15%, 300,000,000.  Reserved for the Bianjie team, with a four-year vesting period.
@@ -19,7 +25,13 @@ Some tokens at this address have been delegated to secure the network; Balance +
 
 **[Cosmos Hub Airdrop](https://www.irisplorer.io/#/address/1/iaa1y4ze04mauet065h2eehr5cwpskr7j6275j46ch)**:	5%, 100,000,000. 	Reserved for a special Cosmos Hub airdrop that will be used for staking purpose only.
 
-**[Private Sale](https://www.irisplorer.io/#/address/1/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**: Initial value is 	500,000,000	which is 25%.  Private-sale pariticipants have different locking terms: ~6% locked for 6 months followed by 12-month linear release; ~4% locked for 9 months followed by 6-month linear release; ~1% locked for 4 months; 10% locked for 2 months; <2% locked for 1 month; <2% without locking. 
+**[Private Sale](https://www.irisplorer.io/#/address/1/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**: Initial value is 	500,000,000	which is 25%.  Private-sale pariticipants have different locking terms:
+- 6% locked for 6 months followed by 12-month linear release; 
+- 4% locked for 9 months followed by 6-month linear release; 
+- 1% locked for 4 months; 
+- 10% locked for 2 months; 
+- 2% locked for 1 month; 
+- 2% without locking. 
 
 The current balance of this account is smaller than the purported amount of locked tokens, the reason being that some of the locked tokens have been moved to (and locked at) special proxy accounts for staking purposes, which is arranged through the [VIL Program](vil_authorization_letter_template.md).
 
