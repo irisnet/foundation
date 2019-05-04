@@ -1,17 +1,21 @@
 # IRISnet公开通证地址
 
 
-## 基金会运营地址
-**基金会委托的收益提取地址**
+## 留作生态开发的通证
+**主地址**
+- [iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0](https://www.irisplorer.io/#/address/1/iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0)
+
+**对外委托地址**
+- [iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts](https://www.irisplorer.io/#/address/1/iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts)
+
+**委托的收益提取地址**
 - [iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc](https://www.irisplorer.io/#/address/1/iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc): 永远锁定（私钥和助记词销毁）。
 - [iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk](https://www.irisplorer.io/#/address/1/iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk): 从2019年04月23日起，未来12个月内通过委托产生的收益会提取至该地址，每季度最后一天销毁一次。
 
-## 有锁定期限的通证地址
+## 有锁定期限的通证
 _锁定期从2019年3月1日IRISnet主网上线开始算起_
 
-**[核心开发团队 (Bianjie)](https://www.irisplorer.io/#/address/1/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)**:	给Bianjie团队保留15%，共300,000,000 IRIS，分四年线性释放。
-
-当前该地址的部分通证被委托出去用于加强网络安全，余额(Balance) + 委托(Delegated) 合计15%。
+**[核心开发团队 (Bianjie)](https://www.irisplorer.io/#/address/1/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)**:	给Bianjie团队保留15%，共300,000,000 IRIS，分四年线性释放。当前该地址的部分通证被委托出去用于加强网络安全，余额(Balance) + 委托(Delegated) 合计15%。
 
 **[核心开发团队 (Tendermint)](https://www.irisplorer.io/#/address/1/iaa13wqpy0ehazj7alvyc8ch36dsszp704pwts47wc)**:	给Tendermint团队保留10%，共200,000,000 IRIS，分两年线性释放。
 
@@ -24,8 +28,8 @@ _锁定期从2019年3月1日IRISnet主网上线开始算起_
 - 总量的4%锁仓9个月，然后按照6个月线性释放；
 - 总量的1%锁仓4个月；
 - 总量的10%锁仓2个月；
-- 小于总量的2%锁仓1个月。
-- 小于总量的2%没有锁仓期。
+- 总量的2%锁仓1个月。
+- 总量的2%没有锁仓期。
 
 当前该地址余额少于声明中的锁定数量，是由于部分锁定通证通过参与[VIL计划](vil_authorization_letter_template.md)被移至（并锁定在）特殊代理账户进行了权益抵押。
 
