@@ -1,0 +1,14 @@
+Hello, 
+
+I am the representative of PlatON. IRISnet and us are both newly emerged public blockchains that serve as a strategic partner and major development opportunity for each other. 
+
+PlatON is designed to be the next generation data sharing platform that features verifiable and privacy preserving computation. Data sharing is expensive and often hindered by regulations like GDPR. Using multiparty computation (MPC), the new platform will release the power of data that is currently locked in silos and insufficiently utilized. Allowing different entities to share their data in collaboratively computation without exposing any details will reduce cost significantly and comply to the regulations and rules of data privacy.
+
+We are so pleasured to participate in the IRISnet network. We are willing to provide technical support for IRISnet.
+
+
+My validator address:
+iaa1fhzvh5fmu3d8tyvncnc6w3mw4h3n4svpw3zhmm
+
+
+Many thanks for your support.
