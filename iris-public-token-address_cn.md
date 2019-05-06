@@ -1,5 +1,10 @@
 # IRISnet公开通证地址
 
+## 交易所地址（该列表仅根据链上公开信息，交易所可能切换地址，请反馈我们如果发现有错误或疏漏）
+**[火币(houbi)](https://www.irisplorer.io/#/address/1/iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc)**
+**[Bibox](https://www.irisplorer.io/#/address/1/iaa1zd0g2mqcnd9hxch44yuh86njhqxg2hdphk20t2)**
+**[mxc](https://www.irisplorer.io/#/address/1/iaa1mn8mcxvj6hum7vqxy86etatz6prad3d0l8quhd)**
+
 ## 有锁定期限的通证
 _锁定期从2019年3月1日IRISnet主网上线开始算起_
 
