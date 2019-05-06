@@ -1,11 +1,11 @@
 # IRISnet公开通证地址
 
 ## 交易所地址
-_该列表仅更具社区反馈能观察到的公开信息，交易所也可能切换地址，请反馈我们如果发现有错误或疏漏_
+_该列表仅根据社区反馈到的能观察到的公开信息，交易所也可能切换地址，请反馈我们如果发现有错误或疏漏_
 
 **[火币(houbi):iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc](https://www.irisplorer.io/#/address/1/iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc)**
 
-**[Bibox::iaa1zd0g2mqcnd9hxch44yuh86njhqxg2hdphk20t](https://www.irisplorer.io/#/address/1/iaa1zd0g2mqcnd9hxch44yuh86njhqxg2hdphk20t2)**2
+**[Bibox::iaa1zd0g2mqcnd9hxch44yuh86njhqxg2hdphk20t2](https://www.irisplorer.io/#/address/1/iaa1zd0g2mqcnd9hxch44yuh86njhqxg2hdphk20t2)**
 
 **[MXC:iaa1mn8mcxvj6hum7vqxy86etatz6prad3d0l8quhd](https://www.irisplorer.io/#/address/1/iaa1mn8mcxvj6hum7vqxy86etatz6prad3d0l8quhd)**)
 
