@@ -1,7 +1,7 @@
 # IRISnet公开通证地址
 
 ## 交易所地址
-_该列表仅根据链上公开信息，交易所可能切换地址，请反馈我们如果发现有错误或疏漏_
+_该列表仅更具社区反馈能观察到的公开信息，交易所也可能切换地址，请反馈我们如果发现有错误或疏漏_
 
 **[火币(houbi)](https://www.irisplorer.io/#/address/1/iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc)**:iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc
 
