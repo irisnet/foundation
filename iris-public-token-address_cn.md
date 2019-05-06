@@ -3,7 +3,7 @@
 ## 交易所地址
 _该列表仅更具社区反馈能观察到的公开信息，交易所也可能切换地址，请反馈我们如果发现有错误或疏漏_
 
-**[火币(houbi)](https://www.irisplorer.io/#/address/1/iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc)**:iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc
+**[火币(houbi):iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc](https://www.irisplorer.io/#/address/1/iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc)**
 
 **[Bibox](https://www.irisplorer.io/#/address/1/iaa1zd0g2mqcnd9hxch44yuh86njhqxg2hdphk20t2)**:iaa1zd0g2mqcnd9hxch44yuh86njhqxg2hdphk20t2
 
