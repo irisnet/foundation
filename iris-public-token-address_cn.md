@@ -7,6 +7,9 @@ _该列表仅根据社区反馈到的能观察到的公开信息，交易所也�
 
 - **Bibox**: [iaa1zd0g2mqcnd9hxch44yuh86njhqxg2hdphk20t2](https://www.irisplorer.io/#/address/1/iaa1zd0g2mqcnd9hxch44yuh86njhqxg2hdphk20t2)
 
+- **Bithumb Global**: [iaa1mvfej6hvkuplcvm9aa2qdeh54npvdnshzcjpat]
+(https://www.irisplorer.io/#/address/1/iaa1mvfej6hvkuplcvm9aa2qdeh54npvdnshzcjpat)
+
 - **MXC**: [iaa1mn8mcxvj6hum7vqxy86etatz6prad3d0l8quhd](https://www.irisplorer.io/#/address/1/iaa1mn8mcxvj6hum7vqxy86etatz6prad3d0l8quhd)
 
 ## 有锁定期限的通证
