@@ -1,6 +1,6 @@
 # IRISnet公开通证地址
 
-## 交易所地址
+## 主要交易所地址
 _该列表仅根据社区反馈到的能观察到的公开信息，交易所也可能切换地址，请反馈我们如果发现有错误或疏漏_
 
 - **火币**: [iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc](https://www.irisplorer.io/#/address/1/iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc)
@@ -9,7 +9,6 @@ _该列表仅根据社区反馈到的能观察到的公开信息，交易所也�
 
 - **Bithumb Global**: [iaa1mvfej6hvkuplcvm9aa2qdeh54npvdnshzcjpat](https://www.irisplorer.io/#/address/1/iaa1mvfej6hvkuplcvm9aa2qdeh54npvdnshzcjpat)
 
-- **MXC**: [iaa1mn8mcxvj6hum7vqxy86etatz6prad3d0l8quhd](https://www.irisplorer.io/#/address/1/iaa1mn8mcxvj6hum7vqxy86etatz6prad3d0l8quhd)
 
 ## 有锁定期限的通证
 _锁定期从2019年3月1日IRISnet主网上线开始算起_
