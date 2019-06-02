@@ -1,5 +1,12 @@
 # IRISnet公开通证地址
 
+## 实时API
+
+通证总量: https://rpc.irisnet.org/token-stats/supply
+
+流通量: https://rpc.irisnet.org/token-stats/circulation
+
+
 ## 主要交易所地址
 _该列表仅根据社区反馈到的能观察到的公开信息，交易所也可能切换地址，请反馈我们如果发现有错误或疏漏_
 
@@ -9,6 +16,7 @@ _该列表仅根据社区反馈到的能观察到的公开信息，交易所也�
 
 - **Bithumb Global**: [iaa1mvfej6hvkuplcvm9aa2qdeh54npvdnshzcjpat](https://www.irisplorer.io/#/address/1/iaa1mvfej6hvkuplcvm9aa2qdeh54npvdnshzcjpat)
 
+还有一些交易所能观察到的地址IRIS通证数目小于百万，就不在这儿一一列出。 
 
 ## 有锁定期限的通证
 _锁定期从2019年3月1日IRISnet主网上线开始算起_
