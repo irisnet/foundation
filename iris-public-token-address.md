@@ -33,8 +33,8 @@ _Locking is counted from March 1st, 2019 when IRISnet was launched_
 **[Private Sale](https://www.irisplorer.io/#/address/1/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**: Initial value is 	500,000,000	which is 25%.  Private-sale pariticipants have different locking terms:
 - 14% already been released 
 - 1% locked for 4 months will be released on July 1st, 2019; 
-- 6% locked for 6 months followed by 12-month linear release; 
-- 4% locked for 9 months followed by 6-month linear release; 
+- 7% locked for 6 months followed by 12-month linear release; 
+- 3% locked for 9 months followed by 6-month linear release; 
 
 The current balance of this account is smaller than the purported amount of locked tokens, the reason being that some of the locked tokens have been moved to (and locked at) special proxy accounts for staking purposes, which is arranged through the [VIL Program](vil_authorization_letter_template.md).
 
