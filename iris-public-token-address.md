@@ -1,5 +1,24 @@
 # IRISnet Public Token Addresses 
 
+## Realtime APIs 
+
+Total Supply: https://rpc.irisnet.org/token-stats/supply
+
+Circulation: https://rpc.irisnet.org/token-stats/circulation
+
+
+## Major Exchange Wallet Address
+
+_Following list is based only on the public information that can be observed from network. Exchanges may also switch addresses. Please feedback us if you notice any errors or omissions_
+
+- **Houbi Global**: [iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc](https://www.irisplorer.io/#/address/1/iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc)
+
+- **Bibox**: [iaa1zd0g2mqcnd9hxch44yuh86njhqxg2hdphk20t2](https://www.irisplorer.io/#/address/1/iaa1zd0g2mqcnd9hxch44yuh86njhqxg2hdphk20t2)
+
+- **Bithumb Global**: [iaa1mvfej6hvkuplcvm9aa2qdeh54npvdnshzcjpat](https://www.irisplorer.io/#/address/1/iaa1mvfej6hvkuplcvm9aa2qdeh54npvdnshzcjpat)
+
+There are also some exchanges with less than one million IRIS tokens in its observable wallet address, which are not listed here.
+
 ## Tokens with Locking Terms
 _Locking is counted from March 1st, 2019 when IRISnet was launched_ 
 
