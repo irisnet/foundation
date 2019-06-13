@@ -39,6 +39,9 @@ _Locking is counted from March 1st, 2019 when IRISnet was launched_
 The current balance of this account is smaller than the purported amount of locked tokens, the reason being that some of the locked tokens have been moved to (and locked at) special proxy accounts for staking purposes, which is arranged through the [VIL Program](vil_authorization_letter_template.md).
 
 ## Tokens Reserved for Ecosystem Development
+
+30% of the innitial token distribution have been reserved for ecosystem development, and the usage is defined in the whitepaper: swap with zones connecting to IRIS Hub; grant to potential users; awards to outstanding partners.etc. 
+
 **Main Address**
 - [iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0](https://www.irisplorer.io/#/address/1/iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0)
 
