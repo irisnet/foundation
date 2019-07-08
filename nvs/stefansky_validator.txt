@@ -1,0 +1,14 @@
+I am stefansky validator from terra.money and Kava and I would like to continue validating on IRIS.
+
+My node is currently syncing.
+
+My validator address:
+iaa12r77hhj6ylvvl4etjm0fmpzh07jum8u7ypr7f4
+iap1addwnpepqgx9htn0ynsl6qkt8nlcuqrhvw03525qeselwsa9ulc9xt7j32vykygjyte
+iva12r77hhj6ylvvl4etjm0fmpzh07jum8u73sf35j
+ivp1addwnpepqgx9htn0ynsl6qkt8nlcuqrhvw03525qeselwsa9ulc9xt7j32vyk8dntlj
+
+
+I'm also working with @kytzu and @syncnode (also Iris validators) developing a swift sdk and a wallet for comos:
+https://github.com/cachitu/CosmosRestAPI
+https://github.com/cachitu/IPSX-Cosmos-Client
