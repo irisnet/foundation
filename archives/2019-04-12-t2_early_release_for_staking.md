@@ -18,3 +18,4 @@ I confirm I will stake as soon as I receive the tokens.
 I understand this early release might be carried out in batches, and if I don’t delegate the released tokens as promised, those unreleased tokens might subject to extended locking time beyond May 1st. 
 
 [Your name here]
+
