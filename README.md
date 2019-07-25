@@ -5,6 +5,7 @@ Foundation and Dev team Token Address:
 
 Community Support Programs:
 + [NVS: New Validator jumpStart Program](https://github.com/irisnet/iris-foundation/tree/master/nvs)
++ [Foundation Delegation Program](https://forum.irisnet.org/t/how-does-iris-foundation-select-validators-to-delegate/39)
 + more to come...
 
 Betanet Launch Docs &amp; Announcements
