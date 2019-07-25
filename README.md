@@ -10,6 +10,6 @@ Community Support Programs:
 
 Betanet Launch Docs &amp; Announcements (Archived)
 + [IRIS Betanet Work Plan](archives/betanet_work_plan.md)
-+ [Announcement of Betanet](iris-betanet-plan.md)
-+ [Expectations for IRIS Betanet](iris-betanet-expectations.md)
++ [Announcement of Betanet](archives/iris-betanet-plan.md)
++ [Expectations for IRIS Betanet](archives/iris-betanet-expectations.md)
 
