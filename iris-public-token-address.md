@@ -22,7 +22,7 @@ There are also some exchanges with less than one million IRIS tokens in its obse
 ## Tokens with Locking Terms
 _Locking is counted from March 1st, 2019 when IRISnet was launched_ 
 
-**[Core Dev (Bianjie)]**:	15%, 300,000,000.  Reserved for the Bianjie team, with a four-year vesting period. There are two addresses:  [unvested] (https://www.irisplorer.io/#/address/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu) and [vested] (https://www.irisplorer.io/#/address/iaa156lnmahxx53yxduxax7pu6rdf6dy44edejtnpk). Currrenly all the vested tokens of Bianjie team is staked to network. 
+**[Core Dev (Bianjie)]**:	15%, 300,000,000.  Reserved for the Bianjie team, with a four-year vesting period. There are two addresses:  [unvested](https://www.irisplorer.io/#/address/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu) and [vested](https://www.irisplorer.io/#/address/iaa156lnmahxx53yxduxax7pu6rdf6dy44edejtnpk). Currrenly all the vested tokens are staked to network. Right now the total tokens from these two accounts including both staked and staked are 300,000,000. Bianjie team intends to even keep the vested tokens locked till end of 2019. 
 
 **[Core Dev (Tendermint)](https://www.irisplorer.io/#/address/iaa13wqpy0ehazj7alvyc8ch36dsszp704pwts47wc)**:	10%, 200,000,000.  Reserved for the Tendermint team, with a two-year vesting period.
 
