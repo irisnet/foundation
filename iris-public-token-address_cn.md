@@ -8,7 +8,7 @@
 
 
 ## 主要交易所地址
-_该列表仅根据社区反馈到的能观察到的公开信息，交易所也可能切换地址，请反馈我们如果发现有错误或疏漏_
+_该列表内容基于交易所披露的公开信息_
 
 - **火币**: [iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc](https://www.irisplorer.io/#/address/iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc)
 
@@ -16,12 +16,13 @@ _该列表仅根据社区反馈到的能观察到的公开信息，交易所也�
 
 - **Bithumb Global**: [iaa1mvfej6hvkuplcvm9aa2qdeh54npvdnshzcjpat](https://www.irisplorer.io/#/address/iaa1mvfej6hvkuplcvm9aa2qdeh54npvdnshzcjpat)
 
-还有一些交易所能观察到的地址IRIS通证数目小于百万，就不在这儿一一列出。 
+- **Coinsuper**: [iaa1e2s2k5k7c3x0k5sv53evxy6y3rhzpp5c2h3a2u](https://www.irisplorer.io/#/address/iaa1e2s2k5k7c3x0k5sv53evxy6y3rhzpp5c2h3a2u)
+
 
 ## 有锁定期限的通证
 _锁定期从2019年3月1日IRISnet主网上线开始算起_
 
-**核心开发团队 (Bianjie)**:	给Bianjie团队保留15%，共300,000,000 IRIS，分四年线性释放。目前团队通证存在两个地址 [还未成熟的 unvested](https://www.irisplorer.io/#/address/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu) 和 [已经成熟的 vested](https://www.irisplorer.io/#/address/iaa156lnmahxx53yxduxax7pu6rdf6dy44edejtnpk). 成熟部分的通证团队在在通过质押进行自主锁仓，目前两个地址的余额(Balance) + 委托(Delegated) 合计15%，Bianjie 团队计划在2019年度内对于已经成熟的部分都会选择自主锁仓。
+**核心开发团队 (Bianjie)**:	给Bianjie团队保留15%，共300,000,000 IRIS，分四年线性释放。与此相关的有两个地址 [未固化的](https://www.irisplorer.io/#/address/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu) 和 [已固化的](https://www.irisplorer.io/#/address/iaa156lnmahxx53yxduxax7pu6rdf6dy44edejtnpk)。目前所有固化的通证都被团队抵押在网络中，而且打算至少在2019年底之前都这么做。
 
 **[核心开发团队 (Tendermint)](https://www.irisplorer.io/#/address/iaa13wqpy0ehazj7alvyc8ch36dsszp704pwts47wc)**:	给Tendermint团队保留10%，共200,000,000 IRIS，分两年线性释放。
 
