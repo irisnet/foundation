@@ -22,7 +22,7 @@ _该列表内容基于交易所披露的公开信息_
 ## 有锁定期限的通证
 _锁定期从2019年3月1日IRISnet主网上线开始算起_
 
-**核心开发团队 (Bianjie)**:	给Bianjie团队保留15%，共300,000,000 IRIS，分四年线性释放。与此相关的有两个地址 [未固化的](https://www.irisplorer.io/#/address/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu) 和 [已固化的](https://www.irisplorer.io/#/address/iaa156lnmahxx53yxduxax7pu6rdf6dy44edejtnpk)。目前所有固化的通证都被团队抵押在网络中，而且打算至少在2019年底之前都这么做。
+**核心开发团队 (Bianjie)**:	给Bianjie团队保留15%，共300,000,000 IRIS，分四年线性释放。与此相关的有两个地址：[未固化的](https://www.irisplorer.io/#/address/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu)和[已固化的](https://www.irisplorer.io/#/address/iaa156lnmahxx53yxduxax7pu6rdf6dy44edejtnpk)。目前所有固化的通证都被团队抵押在网络中，而且打算至少在2019年底之前都这么做。
 
 **[核心开发团队 (Tendermint)](https://www.irisplorer.io/#/address/iaa13wqpy0ehazj7alvyc8ch36dsszp704pwts47wc)**:	给Tendermint团队保留10%，共200,000,000 IRIS，分两年线性释放。
 
