@@ -19,6 +19,8 @@ _The following list is based on public information disclosed by exchanges_
 
 - **Coinsuper**: [iaa1e2s2k5k7c3x0k5sv53evxy6y3rhzpp5c2h3a2u](https://www.irisplorer.io/#/address/iaa1e2s2k5k7c3x0k5sv53evxy6y3rhzpp5c2h3a2u)
 
+- **MXC**: [iaa198g7d4xq3xk2dy8yt88gszxhct36c4egnseu7t](https://www.irisplorer.io/#/address/iaa198g7d4xq3xk2dy8yt88gszxhct36c4egnseu7t)
+
 
 ## Tokens with Locking Terms
 _Locking is counted from March 1st, 2019 when IRISnet was launched_ 
