@@ -42,7 +42,7 @@ The current balance of this account is smaller than the purported amount of lock
 
 ## Tokens Reserved for Ecosystem Development
 
-30% of the innitial token distribution have been reserved for ecosystem development, and the usage is defined in the whitepaper: swap with zones connecting to IRIS Hub; grant to potential users; awards to outstanding partners.etc. <u> This allocation is planned to release in 3~6 years </u> and focus on building the capablity supporting the longer term success of the ecosystem.  
+30% of the initial token allocation has been reserved for ecosystem development, and can be used for: swapping with zones connecting to IRIS Hub; granting to potential users; awarding to outstanding partners; and burning etc. This portion is scheduled to be exhausted in 3~6 years with an objective to sustain the long-term development of IRISnet.  
 
 **Main Address**
 - [iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0](https://www.irisplorer.io/#/address/iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0)
