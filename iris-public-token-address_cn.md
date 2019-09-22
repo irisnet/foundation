@@ -18,6 +18,7 @@ _该列表内容基于交易所披露的公开信息_
 
 - **Coinsuper**: [iaa1e2s2k5k7c3x0k5sv53evxy6y3rhzpp5c2h3a2u](https://www.irisplorer.io/#/address/iaa1e2s2k5k7c3x0k5sv53evxy6y3rhzpp5c2h3a2u)
 
+- **MXC**: [iaa198g7d4xq3xk2dy8yt88gszxhct36c4egnseu7t](https://www.irisplorer.io/#/address/iaa198g7d4xq3xk2dy8yt88gszxhct36c4egnseu7t)
 
 ## 有锁定期限的通证
 _锁定期从2019年3月1日IRISnet主网上线开始算起_
@@ -39,7 +40,7 @@ _锁定期从2019年3月1日IRISnet主网上线开始算起_
 
 ## 留作生态开发的通证
 
-30% 的初始通证预留作为生态发展基金，并不对二级市场出售。该部分的资金只能用于: 和链接在 IRIS Hub 进行通证交换来支持安全; 激励潜在用户; 奖励给出色的生态合作伙伴等等. 这部分计划在 3~6 年内释放，主要目的是支持IRIS 系统的长期发展.
+30%的初始通证预留作为生态发展基金，不对二级市场出售。该部分资金可用于：与连接在IRIS Hub上的分区交换通证；激励潜在用户；奖励出色的生态合作伙伴；销毁等等。这部分资金计划在3~6年内释放完毕，主要目的是支持IRISnet的长期发展。
 
 **主地址**
 - [iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0](https://www.irisplorer.io/#/address/iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0)
