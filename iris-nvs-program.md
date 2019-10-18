@@ -1,6 +1,6 @@
 # IRIS Foundation New Validator jumpStart (NVS)  Program  
 
-To encourage building a more decentralized network, IRIS Foundation would like to support up to 50 new Validators to join [IRIS Betanet](https://www.irisnet.org/mainnet) through providing 100 initial IRIS tokens to start. After the new validator successfully joined network.  There would be another 300 IRIS tokens to this validator account.  
+To encourage building a more decentralized network, IRIS Foundation would like to support up to 50 new Validators to join [IRIS Hub](https://www.irisnet.org/mainnet) through providing 100 initial IRIS tokens to start. After the new validator successfully joined network.  There would be another 300 IRIS tokens to this validator account.  
 
 NVS is only a start to welcome validators to join the network, there is also a program in planning for Foundation to delegate Foundation's token to excellent validators in the community. Please stay tuned.
 
