@@ -11,7 +11,7 @@ Circulation: https://rpc.irisnet.org/token-stats/circulation
 
 _The following list is based on public information disclosed by exchanges_
 
-- **Houbi Global**: [iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc](https://www.irisplorer.io/#/address/iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc)
+- **Huobi Global**: [iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc](https://www.irisplorer.io/#/address/iaa1wcsa554l5lx99ylu94ujlxuu6jkvacvpp63ajc)
 
 - **Bibox**: [iaa1zd0g2mqcnd9hxch44yuh86njhqxg2hdphk20t2](https://www.irisplorer.io/#/address/iaa1zd0g2mqcnd9hxch44yuh86njhqxg2hdphk20t2)
 
@@ -20,6 +20,8 @@ _The following list is based on public information disclosed by exchanges_
 - **Coinsuper**: [iaa1e2s2k5k7c3x0k5sv53evxy6y3rhzpp5c2h3a2u](https://www.irisplorer.io/#/address/iaa1e2s2k5k7c3x0k5sv53evxy6y3rhzpp5c2h3a2u)
 
 - **MXC**: [iaa198g7d4xq3xk2dy8yt88gszxhct36c4egnseu7t](https://www.irisplorer.io/#/address/iaa198g7d4xq3xk2dy8yt88gszxhct36c4egnseu7t)
+
+- **Binance DEX**: [iaa1rfmh23nrf44dtytdsg7le42rrkhzwv5d2vggv9](https://www.irisplorer.io/#/address/iaa1rfmh23nrf44dtytdsg7le42rrkhzwv5d2vggv9)
 
 
 ## Tokens with Locking Terms
