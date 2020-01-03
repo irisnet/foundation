@@ -51,8 +51,7 @@ _锁定期从2019年3月1日IRISnet主网上线开始算起_
 - [iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts](https://www.irisplorer.io/#/address/iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts)
 
 **委托的收益提取地址**
-- [iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc](https://www.irisplorer.io/#/address/iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc): 永远锁定（私钥和助记词销毁）。
-- [iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk](https://www.irisplorer.io/#/address/iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk): 从2019年04月23日起，未来12个月内通过委托产生的收益会提取至该地址，每季度最后一天销毁一次。
+- [iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk](https://www.irisplorer.io/#/address/iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk)
 
 点击[链接](https://github.com/irisnet/irisnet/blob/master/%E7%99%BD%E7%9A%AE%E4%B9%A6.md#%E5%88%9D%E5%A7%8B%E9%80%9A%E8%AF%81%E5%88%86%E9%85%8D)，在白皮书中查看首次代币分配。
 
