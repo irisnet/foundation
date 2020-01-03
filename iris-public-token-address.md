@@ -55,7 +55,7 @@ The current balance of this account is smaller than the purported amount of lock
 **Delegation Withdraw Address**
 - [iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk](https://www.irisplorer.io/#/address/iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk)
 
-[Check the initial token distribution defined in the whitepaper](https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md#initial-token-distribution)
+Check the [initial token distribution](https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md#initial-token-distribution) defined in the whitepaper.
 
 _More to come..._
  
