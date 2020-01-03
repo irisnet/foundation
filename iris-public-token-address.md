@@ -53,7 +53,6 @@ The current balance of this account is smaller than the purported amount of lock
 - [iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts](https://www.irisplorer.io/#/address/iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts)
 
 **Delegation Withdraw Address**
-- [iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc](https://www.irisplorer.io/#/address/iaa1k4vk9xv2ywq3p209qe2etwmlfav8aknt3agqzc): Locked forever (private key and mnemonic destroyed).
 - [iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk](https://www.irisplorer.io/#/address/iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk): For the next 12 months starting from April  23, 2019, delegation rewards received at this address will be burned at the end of every quarter.
 
 [Check the initial token distribution defined in the whitepaper](https://github.com/irisnet/irisnet/blob/master/WHITEPAPER.md#initial-token-distribution)
