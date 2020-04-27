@@ -22,6 +22,8 @@ _该列表内容基于交易所披露的公开信息_
 
 - **币安DEX**: [iaa1rfmh23nrf44dtytdsg7le42rrkhzwv5d2vggv9](https://www.irisplorer.io/#/address/iaa1rfmh23nrf44dtytdsg7le42rrkhzwv5d2vggv9)
 
+- **Biki**: [iaa1gtevhu7wpet6nuw9fstl2x60pc98ymhmx08s5y](https://www.irisplorer.io/#/address/iaa1gtevhu7wpet6nuw9fstl2x60pc98ymhmx08s5y)
+
 ## 有锁定期限的通证
 _锁定期从2019年3月1日IRISnet主网上线开始算起_
 
