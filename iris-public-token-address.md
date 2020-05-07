@@ -23,6 +23,7 @@ _The following list is based on public information disclosed by exchanges_
 
 - **Binance DEX**: [iaa1rfmh23nrf44dtytdsg7le42rrkhzwv5d2vggv9](https://www.irisplorer.io/#/address/iaa1rfmh23nrf44dtytdsg7le42rrkhzwv5d2vggv9)
 
+- **Biki**: [iaa1gtevhu7wpet6nuw9fstl2x60pc98ymhmx08s5y](https://www.irisplorer.io/#/address/iaa1gtevhu7wpet6nuw9fstl2x60pc98ymhmx08s5y)
 
 ## Tokens with Locking Terms
 _Locking is counted from March 1st, 2019 when IRISnet was launched_ 
