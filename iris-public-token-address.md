@@ -38,10 +38,7 @@ _Locking is counted from March 1st, 2019 when IRISnet was launched_
 
 **[Cosmos Hub Airdrop](https://www.irisplorer.io/#/address/iaa1y4ze04mauet065h2eehr5cwpskr7j6275j46ch)**:	5%, 100,000,000. 	This portion will never get to circulation and is reserved for a special Cosmos Hub airdrop that will be used for staking purpose only.
 
-**[Private Sale](https://www.irisplorer.io/#/address/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**: Initial value is 	500,000,000	which is 25% which have already been released.  Private-sale pariticipants have different locking terms:
- - 15% already been released;
- - 7% locked for 6 months followed by 12-month linear release, starting from Sep 1st 2019, already been released; 
- - 3% locked for 9 months followed by 6-month linear release, starting from Dec 1st 2019, already been released; 
+**[Private Sale](https://www.irisplorer.io/#/address/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**: Initial value is 	500,000,000	which is 25% which have already been released.  
  
 ## Tokens Reserved for Ecosystem Development
 
