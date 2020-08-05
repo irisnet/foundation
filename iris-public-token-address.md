@@ -47,11 +47,8 @@ _Locking is counted from March 1st, 2019 when IRISnet was launched_
 **Main Address**
 - [iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0](https://www.irisplorer.io/#/address/iaa14tynuu49qx85re9kjfcx0uukdazk8jedlmeqt0)
 
-**Delegator Address**
+**Delegator Address** Tokens in this address are used for supporting [validator delegation program](https://forum.irisnet.org/t/how-does-iris-foundation-select-validators-to-delegate/39)
 - [iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts](https://www.irisplorer.io/#/address/iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts)
-
-Tokens in this address are used for supporting [validator delegation program](https://forum.irisnet.org/t/how-does-iris-foundation-select-validators-to-delegate/39)
-
 
 **Delegation Withdraw Address**
 - [iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk](https://www.irisplorer.io/#/address/iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk)
