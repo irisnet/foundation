@@ -34,17 +34,15 @@ _Locking is counted from March 1st, 2019 when IRISnet was launched_
 
 **[Core Dev (Tendermint)](https://www.irisplorer.io/#/address/iaa13wqpy0ehazj7alvyc8ch36dsszp704pwts47wc)**:	10%, 200,000,000.  Reserved for the Tendermint team, with a two-year vesting period.
 
-**[IRIS Foundation](https://www.irisplorer.io/#/address/iaa1p7qu0acxgwrg059va65cl8sq3w9japnkj93vrc)**:	15%, 300,000,000. 	Reserved to support operations of the Foundation, the current plan is to keep yearly spending below 30,000,000.  Furthermore, the Foundation is committed to locking this account for the first six months after the mainnet launch.   
+**[IRIS Foundation](https://www.irisplorer.io/#/address/iaa1p7qu0acxgwrg059va65cl8sq3w9japnkj93vrc)**:	15%, 300,000,000. 	Reserved to support operations of the Foundation, the current plan is to keep yearly spending below 30,000,000.  Furthermore, the Foundation is committed to locking this account for the first 43e3six months after the mainnet launch.   
 
-**[Cosmos Hub Airdrop](https://www.irisplorer.io/#/address/iaa1y4ze04mauet065h2eehr5cwpskr7j6275j46ch)**:	5%, 100,000,000. 	Reserved for a special Cosmos Hub airdrop that will be used for staking purpose only.
+**[Cosmos Hub Airdrop](https://www.irisplorer.io/#/address/iaa1y4ze04mauet065h2eehr5cwpskr7j6275j46ch)**:	5%, 100,000,000. 	This portion will never get to circulation and is reserved for a special Cosmos Hub airdrop that will be used for staking purpose only.
 
 **[Private Sale](https://www.irisplorer.io/#/address/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**: Initial value is 	500,000,000	which is 25% which have already been released.  Private-sale pariticipants have different locking terms:
  - 15% already been released;
  - 7% locked for 6 months followed by 12-month linear release, starting from Sep 1st 2019, already been released; 
  - 3% locked for 9 months followed by 6-month linear release, starting from Dec 1st 2019, already been released; 
  
-The current balance of this account is smaller than the purported amount of locked tokens, the reason being that some of the locked tokens have been moved to (and locked at) special proxy accounts for staking purposes, which is arranged through the [VIL Program](vil_authorization_letter_template.md).
-
 ## Tokens Reserved for Ecosystem Development
 
 30% of the initial token allocation has been reserved for ecosystem development, and can be used for: swapping with zones connecting to IRIS Hub; granting to potential users; awarding to outstanding partners; and burning etc. This portion is scheduled to be exhausted in 3~6 years with an objective to sustain the long-term development of IRISnet.  
@@ -54,6 +52,9 @@ The current balance of this account is smaller than the purported amount of lock
 
 **Delegator Address**
 - [iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts](https://www.irisplorer.io/#/address/iaa1w7ewedr57z6p7f8nknmdvukfxwkwlsvfjumdts)
+
+Tokens in this address are used for supporting [validator delegation program](https://forum.irisnet.org/t/how-does-iris-foundation-select-validators-to-delegate/39)
+
 
 **Delegation Withdraw Address**
 - [iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk](https://www.irisplorer.io/#/address/iaa1yfqfqspjktk7gvyf3paqys88edy8m9vwptm9lk)
