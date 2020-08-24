@@ -6,9 +6,9 @@ IRISnet (a.k.a IRIS Hub) is an Interchain Service Hub designed to support the ne
 
 The scope of this tech-grants program mainly focuses on technology development and infrastructure building,  which can include but not limit to: 
 
-- DApps
+- DApps (e.g leverage the random numbers, coinswap, HTLC, iservices to build your applications on IRIS HUB)
 
-- Tools
+- Tools (e.g wallets to support coinswap functions, i-Service tools etc)
 
 - Modules of IRIS SDK
 
