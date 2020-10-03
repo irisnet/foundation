@@ -37,12 +37,7 @@ _锁定期从2019年3月1日IRISnet主网上线开始算起_
 
 **[Cosmos Hub空投](https://www.irisplorer.io/#/address/iaa1y4ze04mauet065h2eehr5cwpskr7j6275j46ch)**:	给Cosmso Hub保留5%做特别空投，共100,000,000 IRIS，该部分通证永不流通，将仅用于Cosmos Hub 参与IRISnet权益抵押，为IRISnet 提供额外的安全保证。
 
-**[私募](https://www.irisplorer.io/#/address/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**: 初始销售量500,000,000 IRIS, 占总量的25%。私募参与者有不同的锁仓期限：
-- 总量的15% 已经释放
-- 总量的7%锁仓6个月，然后按照12个月线性释放；
-- 总量的3%锁仓9个月，然后按照6个月线性释放；
-
-当前该地址余额少于声明中的锁定数量，是由于部分锁定通证通过参与[VIL计划](vil_authorization_letter_template.md)被移至（并锁定在）特殊代理账户进行了权益抵押。
+**[私募](https://www.irisplorer.io/#/address/iaa1n5x9ng3ufr29nw4eauzq6pkwzgkqrxdgacph4t)**: 初始销售量500,000,000 IRIS, 占总量的25%。私募参与者有不同的锁仓期限,已经2020年9月1日全部释放完毕。
 
 ## 留作生态开发的通证
 
