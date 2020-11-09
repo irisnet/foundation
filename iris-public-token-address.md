@@ -30,7 +30,7 @@ _The following list is based on public information disclosed by exchanges_
 ## Tokens with Locking Terms
 _Locking is counted from March 1st, 2019 when IRISnet was launched_ 
 
-**Core Dev (Bianjie)**:	15%, 300,000,000.  Reserved for the Bianjie team, with a four-year vesting period. There are two addresses involved: [unvested](https://www.irisplorer.io/#/address/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu) and [vested](https://www.irisplorer.io/#/address/iaa156lnmahxx53yxduxax7pu6rdf6dy44edejtnpk). Right now all the vested tokens are staked to the network and we intend to keep it that way until at least the end of 2019.
+**Core Dev (Bianjie)**:	15%, 300,000,000.  Reserved for the Bianjie team, with a four-year vesting period. There are two addresses involved: [unvested](https://www.irisplorer.io/#/address/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu) and [vested](https://www.irisplorer.io/#/address/iaa156lnmahxx53yxduxax7pu6rdf6dy44edejtnpk). Right now all the vested tokens are staked to the network and we intend to keep it that way until at least the end of 2021.
 
 **[Core Dev (Tendermint)](https://www.irisplorer.io/#/address/iaa13wqpy0ehazj7alvyc8ch36dsszp704pwts47wc)**:	10%, 200,000,000.  Reserved for the Tendermint team, with a two-year vesting period.
 
