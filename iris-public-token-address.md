@@ -34,7 +34,7 @@ _Locking is counted from March 1st, 2019 when IRISnet was launched_
 
 **[Core Dev (Tendermint)](https://www.irisplorer.io/#/address/iaa13wqpy0ehazj7alvyc8ch36dsszp704pwts47wc)**:	10%, 200,000,000.  Reserved for the Tendermint team, with a two-year vesting period.
 
-**[IRIS Foundation](https://www.irisplorer.io/#/address/iaa1p7qu0acxgwrg059va65cl8sq3w9japnkj93vrc)**:	15%, 300,000,000. 	Reserved to support operations of the Foundation, the current plan is to keep yearly spending below 30,000,000.  Furthermore, the Foundation is committed to locking this account for the first 43e3six months after the mainnet launch.   
+**[IRIS Foundation](https://www.irisplorer.io/#/address/iaa1p7qu0acxgwrg059va65cl8sq3w9japnkj93vrc)**:	15%, 300,000,000. 	Reserved to support operations of the Foundation, the current plan is to keep yearly spending below 30,000,000. 
 
 **[Cosmos Hub Airdrop](https://www.irisplorer.io/#/address/iaa1y4ze04mauet065h2eehr5cwpskr7j6275j46ch)**:	5%, 100,000,000. 	This portion will never get to circulation and is reserved for a special Cosmos Hub airdrop that will be used for staking purpose only.
 
