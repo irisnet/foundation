@@ -26,7 +26,7 @@ Please answer the following questions and send emails to [contact@irisnet.org](h
 
 
 
-If you have any questions, welcome to join in [IRISnet Riot](https://matrix.to/#/!aKdQbohoExWwjBZShQ:matrix.org?via=matrix.org&via=asra.gr&via=nerdsin.space) to communicate with IRISnet developers.
+If you have any questions, welcome to join in [IRISnet Riot](https://matrix.to/#/!bmimZgJrUWSmxqQEmG:matrix.org?via=matrix.org&via=chat.weho.st&via=riotchat.de) to communicate with IRISnet developers.
 
 
 
