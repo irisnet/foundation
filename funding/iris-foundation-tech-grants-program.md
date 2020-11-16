@@ -23,18 +23,16 @@ Please answer the following questions to introduce your project, and send emails
 **Questions:**
 
 1. Your name and team role?
-
-2. Project links (Website/GitHub)
-
+2. Project links (Website/GitHub).
 3. Description of your company/project.
-
 4. What and how would you/your project improve the IRISnet ecosystem?
+5. What is your detailed work plan? (e.g work period, timeline/work phases, expected results/achievements etc)
+6. How will the improvement that you provide be quantitatively measured?
+7. What kind of resources are being requested? 
+8. Any other you want to share. 
 
-5. How will the improvement that you provide be quantitatively measured?
 
-6. What kind of resources are being requested?
-7. Any other you want to share. 
-
+**Attention: All the projects/tools referred to this program should be open-sourced.**
 
 
 Thank you for your support to IRISnet!
