@@ -1,6 +1,6 @@
 # IRISnet BSN Node Service Grants Parogram
 
-BSN Global Portal has been launched to provide public chain node service. Now node services of IRISnet mainnet and testnet are both accessible on [global.bsnbase.com](http://global.bsnbase.com)*.  
+BSN Global Portal has been launched to provide public chain node service. Now node services of IRISnet mainnet and testnet are both accessible on [bsnbase.io](https://bsnbase.io/g/main/index)*.  
 
 Dedicated to constantly improve node services of IRISnet on BSN Global, which is inseparable from the contributions of developers, IRIS Foundation plans to launch a BSN Global IRISnet Node Service Grants Program, encouraging and supporting developers to develop applications, like DeFi apps, iService apps, staking tools, explorers, etc. via IRISnet node service and give feedback. 
 
