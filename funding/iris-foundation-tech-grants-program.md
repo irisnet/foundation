@@ -32,6 +32,7 @@ Please answer the following questions to introduce your project, and send emails
 8. Any other you want to share. 
 
 
-Attention: All the projects/tools referred to this program should be open-sourced.
+**Attention: All the projects/tools referred to this program should be open-sourced.**
+
 
 Thank you for your support to IRISnet!
