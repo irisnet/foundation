@@ -8,7 +8,7 @@ The scope of this tech-grants program mainly focuses on technology development a
 
 - DApps (e.g leverage the random numbers, coinswap, HTLC, iservices to build your applications on IRIS HUB)
 
-- Tools  (e.g wallets to support coinswap functions, i-Service tools etc)
+- Tools (e.g wallets to support coinswap functions, i-Service tools etc)
 
 - Modules of IRIS SDK
 
