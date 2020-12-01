@@ -33,7 +33,7 @@ _Locking is counted from March 1st, 2019 when IRISnet was launched_
 **Core Dev (Bianjie)**:	15%, 300,000,000.  Reserved for the Bianjie team, with a four-year vesting period. There are two addresses involved: [unvested](https://www.irisplorer.io/#/address/iaa1t3alcjnr7qwje9qs0axah4mwp9jvl8vns9y9gu) and [vested](https://www.irisplorer.io/#/address/iaa156lnmahxx53yxduxax7pu6rdf6dy44edejtnpk). Right now all the vested tokens are staked to the network.
 
 **Core Dev (Tendermint)**:	10%, 200,000,000.  Reserved for the Tendermint team,
-rignt now there are two addresses involved [unvested](https://www.irisplorer.io/#/address/iaa13wqpy0ehazj7alvyc8ch36dsszp704pwts47wc) and [vested](iaa16r4q4sfpyhuxk8lg3h3vc03j35knc3akjc05za)
+rignt now there are two addresses involved [unvested](https://www.irisplorer.io/#/address/iaa13wqpy0ehazj7alvyc8ch36dsszp704pwts47wc) and [vested]((https://www.irisplorer.io/#/address/iaa16r4q4sfpyhuxk8lg3h3vc03j35knc3akjc05za)
 with a two-year vesting period .
 
 **[IRIS Foundation](https://www.irisplorer.io/#/address/iaa1p7qu0acxgwrg059va65cl8sq3w9japnkj93vrc)**:	15%, 300,000,000. 	Reserved to support operations of the Foundation, the current plan is to keep yearly spending below 30,000,000. 
