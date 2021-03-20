@@ -1,0 +1,12 @@
+Hello,
+
+My name is Edward Gunawan and I want to become a validator for Iris.
+I have experience in the validator setup and have deployed a validator on Iris network.
+I've participated in Cosmos Testnets and placed in the top of the Game of Stakes .
+
+My validator address and pubkey is: 
+iaa1svgxpk69hryg9yf8zv8xrzvr6k2p8ss5qc59ya
+iap1addwnpepqvxe2z64eq8z4kgsk9hrjt0dl6glx2hfl8fny0nvy97n4xwzhpgkvpqrckl
+
+Thank you,
+Edward

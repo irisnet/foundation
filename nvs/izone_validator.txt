@@ -1,0 +1,14 @@
+Hi, I am twinbraid
+
+I'm writing to help BlockChain beginners on the blog (since 2017)
+(https://steemit.com/@twinbraid)
+I also run cosmos Validator and recently wrote about it.
+
+My validator address:
+iva1t303snqh69zdf0e9smwvmdpq2z4d6um8mjjgkt
+Pub Key :
+icp1zcjduepqtkhxhykdpgc500p6fq2c2f6s87t9u4d95ka85q2ssz45y08vr66s7fhk29
+Owner :
+iaa1t303snqh69zdf0e9smwvmdpq2z4d6um8wrc8tv
+
+Thank you!

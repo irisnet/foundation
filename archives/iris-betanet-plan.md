@@ -7,7 +7,7 @@ Since July 20th 2018, the IRISnet community has been running the Fuxi testnet an
  
 Now the community is looking forward to moving beyond the testnet to a production environment. The core development team for IRISnet, [Bianjie](https://www.bianjie.ai), is occupied with final technical preparations for the Betanet launch. 
  
-The Betanet, as the first step towards the Mainnet, is still an immature network, and community members who opt to interact with it must understand that the Betanet will undergo unscheduled downtime and require maintenance and adjustments. However, all transactions from Betanet are intended to be persisted as part of IRIS Mainnet blockchain \(please refer to [Betanet Expectations](iris-betanet-expectations.md)\). In addition, **locked tokens for early IRISnet private sale contributors and development teams will start to unlock from the Betanet genesis according to the locking terms** \(Please refer to [IRIS Tokens Unlocking Schedule](iris-tokens-unlocking-schedule.md)\).
+The Betanet, as the first step towards the Mainnet, is still an immature network, and community members who opt to interact with it must understand that the Betanet will undergo unscheduled downtime and require maintenance and adjustments. However, all transactions from Betanet are intended to be persisted as part of IRIS Mainnet blockchain \(please refer to [Betanet Expectations](iris-betanet-expectations.md)\). In addition, **locked tokens for early IRISnet private sale contributors and development teams will start to unlock from the Betanet genesis according to the locking terms** \(Please refer to [IRIS Tokens Unlocking Schedule](iris-public-token-address.md)\).
 
 The work plan for Betanet launch is at [IRIS Betanet Work Plan](betanet_work_plan.md)
 
@@ -16,4 +16,6 @@ Thank you again for your support as we move towards the launch of the IRIS Betan
 Sincerely,
 
 The IRIS Foundation
+
+Jan 1st, 2019
 

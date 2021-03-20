@@ -1,0 +1,11 @@
+Hello，
+I am Bitwires and I want to become a validator for Iris. 
+I am a developed media network which have rich experience in the blockchain field. I already have deployed a validator on Iris network as well.
+
+Here is my Iris address: 
+iaa1e67lu4d6z9tnv6cq2y766ztuy6fndt7ydyutad
+
+pubkey：
+iap1addwnpepqdnq9svlt8hkdcgqpqpf6nm8qzp42e63746hdzkwjhxuyqhxyrnpvfm2yna
+
+Thanks!

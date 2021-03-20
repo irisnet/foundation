@@ -1,0 +1,14 @@
+I am kytzumini validator from GOS (finished in top 50) and I would like to continue validating on IRIS.
+
+My node is up now:
+8a668cbe77f2ddb45a238e3d36080d61e6f5600c@173.212.219.188:26656
+
+My validator address:
+iaa1wtv0kp6ydt03edd8kyr5arr4f3yc52vpp27zl7
+iap1addwnpepqd3xtcfgysaydlrs8hpaqeprdqua6wpx6dldklwwykgd9pq9c90vuntp3sl
+iva1wtv0kp6ydt03edd8kyr5arr4f3yc52vp5m5dze
+ivp1addwnpepqd3xtcfgysaydlrs8hpaqeprdqua6wpx6dldklwwykgd9pq9c90vuswq7y5
+
+I'm also developing a swift sdk and a wallet for comos:
+https://github.com/cachitu/CosmosRestAPI
+https://github.com/cachitu/IPSX-Cosmos-Client

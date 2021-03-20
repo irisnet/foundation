@@ -1,0 +1,11 @@
+I am FISH KING, DApp developer from Taiwan. 
+
+I started to develop DAPP games last year, and the games have achieved good results on EOS. So this year we turned into blockchain game publishers, and also worked deeply with the major blockchains to become nodes.
+
+This is our website: https://node.fish/
+
+My node is up now: e08817ab7150ab8354b6fc2335fe4fda210fab45@13.229.78.30:26656
+
+My validator address:
+iaa1pjem9cvuk9cz50d2psejdph5gz457ky5kms4aw
+iap1addwnpepqtzzuz7sd3zwfenx6y65y9g7a3gp2tl3a0kuq6fd905jg34xql8rytcnk8u
