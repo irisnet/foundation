@@ -1,12 +1,12 @@
 # IRIS Foundation
 
-Foundation and Dev team Token Address:
-+ [IRIS Public Token Address](iris-public-token-address.md)
-
 Community Support Programs:
-+ [NVS: New Validator jumpStart Program](https://github.com/irisnet/iris-foundation/tree/master/nvs)
-+ [Foundation Delegation Program](https://forum.irisnet.org/t/how-does-iris-foundation-select-validators-to-delegate/39)
-+ [基金会委托计划 Delegation Program in Chinese ](https://forum.irisnet.org/t/iris-foundation/37)
++ [New Validator Jumpstart](nvs)
++ [Foundation Delegation](https://forum.irisnet.org/t/how-does-iris-foundation-select-validators-to-delegate/39)
+
+Community Funding Programs:
++ [IRISgardians](funding/irisgardians-program.md)
++ [Tech Grants](funding/tech-grants-program.md)
 
 + more to come...
 
